@@ -18,7 +18,7 @@ import (
 )
 
 func main() {
-	// Gosec G101: Hardcoded credentials
+	// Gosec G101: Hardcoded credentialsaaaa
 	// CWE-798: Use of Hard-coded Credentials
 	// Vulnerability: Hard-coding credentials in source code is a security risk.
 	// If an attacker gains access to the source code, they can easily extract the credentials.
